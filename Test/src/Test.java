@@ -22,6 +22,8 @@ public class Test {
         System.out.println("Sample test 5");
 
         System.out.println("Sample test 4");
+        
+        System.out.println("Sample test 6");
 
         System.out.println("Sample test 6");
 
