@@ -14,8 +14,6 @@ public class Test {
         
         System.out.println("Sample test 1");
 
-        System.out.println("Sample test 1");
-
 
         System.out.println("Sample test 2");
 
