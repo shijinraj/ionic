@@ -27,7 +27,7 @@ public class Test {
 
         System.out.println("Sample test 6");
 
-        System.out.println("Sample test 7");
+        System.out.println("Sample test 75");
 
     }
 
